@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "联系方式："; ObjectID = "70v-5Q-0Yy"; */
+"70v-5Q-0Yy.text" = "聯繫方式：";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "BHc-Af-m2Q"; */
+"BHc-Af-m2Q.text" = "-";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "EMU-Ww-vvJ"; */
+"EMU-Ww-vvJ.text" = "-";
+
+/* Class = "UILabel"; text = "入网时间："; ObjectID = "Ig6-06-257"; */
+"Ig6-06-257.text" = "入網時間：";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "Vgj-Vn-BgK"; */
+"Vgj-Vn-BgK.text" = "-";
+
+/* Class = "UILabel"; text = "审核通过"; ObjectID = "WPc-bN-51b"; */
+"WPc-bN-51b.text" = "审核通过";
+
+/* Class = "UILabel"; text = "登录账号："; ObjectID = "mgX-B7-c4q"; */
+"mgX-B7-c4q.text" = "代理帳號：";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "xca-VL-4kc"; */
+"xca-VL-4kc.text" = "-";

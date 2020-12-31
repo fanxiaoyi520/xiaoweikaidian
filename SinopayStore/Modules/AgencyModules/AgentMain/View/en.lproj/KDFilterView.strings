@@ -1,0 +1,15 @@
+
+/* Class = "UIButton"; normalTitle = "2018-08-30"; ObjectID = "JGu-c0-Mlp"; */
+"JGu-c0-Mlp.normalTitle" = "2018-08-30";
+
+/* Class = "UILabel"; text = "至"; ObjectID = "Omh-ef-nYv"; */
+"Omh-ef-nYv.text" = "至";
+
+/* Class = "UITextField"; placeholder = "可输入代理编号进行查询"; ObjectID = "XyZ-5M-fAX"; */
+"XyZ-5M-fAX.placeholder" = "可输入代理账号进行查询";
+
+/* Class = "UILabel"; text = "入网时间"; ObjectID = "eI5-Ls-YkY"; */
+"eI5-Ls-YkY.text" = "入网时间";
+
+/* Class = "UIButton"; normalTitle = "2018-08-30"; ObjectID = "mAT-tV-2CZ"; */
+"mAT-tV-2CZ.normalTitle" = "2018-08-30";

@@ -1,0 +1,31 @@
+//
+//  PrefixHeader.pch
+//  SinopayStore
+//
+//  Created by 中付支付 on 2017/11/30.
+//  Copyright © 2017年 中付支付. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "UIView+FrameCategory.h"
+#import "Definition.h"
+#import "ZFGlobleManager.h"
+#import "NetworkEngine.h"
+#import "MBUtils.h"
+#import "Config.h"
+#import "Masonry.h"
+#import "UITextField+LimitLength.h"
+#import "HBRSAHandler.h"
+#import "TripleDESUtils.h"
+#import "ZFBaseTextField.h"
+#import "XLAlertController.h"
+#import "UITabBar+badge.h"
+ #import <CoreLocation/CoreLocation.h>
+#import "TZLocationManager.h"
+
+#endif /* PrefixHeader_pch */

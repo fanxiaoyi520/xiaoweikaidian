@@ -1,0 +1,27 @@
+
+/* Class = "UITextField"; placeholder = "请输入产品费率"; ObjectID = "204-vh-jjY"; */
+"204-vh-jjY.placeholder" = "请输入产品费率";
+
+/* Class = "UITextField"; placeholder = "请选择起始时间"; ObjectID = "8uv-u6-WeV"; */
+"8uv-u6-WeV.placeholder" = "请选择起始时间";
+
+/* Class = "UILabel"; text = "产品费率"; ObjectID = "H6j-XT-LjK"; */
+"H6j-XT-LjK.text" = "产品费率";
+
+/* Class = "UILabel"; text = "起始时间"; ObjectID = "OTI-0h-c0r"; */
+"OTI-0h-c0r.text" = "起始时间";
+
+/* Class = "UITextField"; placeholder = "请选择代理产品"; ObjectID = "WCL-Pu-iRc"; */
+"WCL-Pu-iRc.placeholder" = "请选择代理产品";
+
+/* Class = "UITextField"; placeholder = "请选择结束时间"; ObjectID = "ZMM-VS-B97"; */
+"ZMM-VS-B97.placeholder" = "请选择结束时间";
+
+/* Class = "UILabel"; text = "结束时间"; ObjectID = "g5X-RP-aSn"; */
+"g5X-RP-aSn.text" = "结束时间";
+
+/* Class = "UILabel"; text = "代理产品"; ObjectID = "gDH-hg-aVa"; */
+"gDH-hg-aVa.text" = "代理产品";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "wt0-82-Rhe"; */
+"wt0-82-Rhe.text" = "%";

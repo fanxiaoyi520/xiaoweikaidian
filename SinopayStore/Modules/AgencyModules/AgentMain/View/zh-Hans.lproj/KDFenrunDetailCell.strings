@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "交易总金额"; ObjectID = "3TY-tN-32N"; */
+"3TY-tN-32N.text" = "交易总金额";
+
+/* Class = "UILabel"; text = "2019-01-03"; ObjectID = "7vW-RF-RtL"; */
+"7vW-RF-RtL.text" = "2019-01-03";
+
+/* Class = "UILabel"; text = "分润总金额"; ObjectID = "9zR-NY-mBP"; */
+"9zR-NY-mBP.text" = "分润总金额";
+
+/* Class = "UILabel"; text = "代理A"; ObjectID = "A4O-t6-2lf"; */
+"A4O-t6-2lf.text" = "代理A";
+
+/* Class = "UILabel"; text = "1234123412341234"; ObjectID = "FWq-so-wwe"; */
+"FWq-so-wwe.text" = "1234123412341234";
+
+/* Class = "UILabel"; text = "代理编号："; ObjectID = "HuJ-nL-DnO"; */
+"HuJ-nL-DnO.text" = "代理帐号：";
+
+/* Class = "UILabel"; text = "下级费率"; ObjectID = "jYB-CV-ONl"; */
+"jYB-CV-ONl.text" = "下级费率";

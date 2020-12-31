@@ -1,0 +1,378 @@
+/* 
+  Localizable.strings
+  SinopayStore
+
+  Created by 中付支付 on 2017/12/1.
+  Copyright © 2017年 中付支付. All rights reserved.
+*/
+
+
+//登录注册
+"登录" = "Log in";
+"请输入手机号" = "Enter phone number";
+"请输入密码" = "Enter password";
+"商户注册" = "Registration";
+"忘记密码" = "Forget Password";
+"取消" = "Cancel";
+"完成" = "Complete";
+"手机号码有误" = "Phone number incorrect";
+"密码输入错误" = "Log in password entered incorrect";
+"商户认证" = "Merchant Verification";
+"所在国家" = "Country";
+"请选择" = "Select";
+"商家名称" = "Merchant name";
+"店铺名称" = "Store name";
+"联系人" = "Contact person";
+"联系电话" = "Contact number";
+"受益人姓名" = "Beneficiary name";
+"银行账号" = "Bank account";
+"银行名称" = "Bank name";
+"所属分行" = "Branch name";
+"请选择开户银行" = "Select account bank";
+"请选择所属分行" = "Select account branch";
+"结算信息" = "Settlement information";
+"身份证件正面照片" = "Picture of the front ID";
+"税务登记证照片" = "Picture of the Tax Registration Certificate";
+"银行月结单" = "Bank monthly statement";
+"营业场地照片" = "Point of business operation picture";
+"同意" = "Agree";
+"《电子收单合同》" = "《Electronic Acquiring Contract》";
+"提交" = "Submit";
+"请选择国家" = "Select country";
+"请选择银行" = "Select bank";
+"银行账号填写有误" = "Bank account information error";
+"请上传所需照片" = "Upload pictures";
+"请阅读并同意《电子收单合同》" = "Read and agree to the Contract";
+"资料未填写完整" = "Incomplete information";
+"拍照" = "Take photo";
+"从手机相册选择" = "Choose from the album";
+"不能访问您的相机" = "Cannot visit your camera!";
+"请前往\"设置\"打开相机访问权限" = "Go to \"setting\" to enable camera access";
+"该设备不支持相机" = "Camera function not supported on this device";
+"打开" = "Open \"Setting\"";
+"确定" = "Confirm";
+"提示" = "Hint";
+"请去设置中打开访问相册开关" = "Go to Setting to turn on the camera access";
+"正在上传..." = "Uploading…";
+"正在提交" = "Uploading";
+"上传成功" = "Upload success";
+"修改成功" = "Success";
+"提交成功，信息正在审核中..." = "Submit success, verifying information…";
+"好的" = "Okay";
+"请设置商家名称" = "Set merchant name";
+"请设置店铺名称" = "Set store name";
+"请填写商家联系人姓名" = "Contact person’s name";
+"请填写商家联系人电话号码" = "Contact person’s number";
+"请输入银行开户姓名" = "Account name";
+"请输入银行账号" = "Account number";
+"注册" = "Register";
+"验证码" = "Verification code";
+"获取验证码" = "Get verification code";
+"下一步" = "Next Step";
+"验证码输入错误" = "Verification code entered incorrect";
+"请输入6位数字登录密码" = "Enter the 6-digit Login password";
+"两次输入的密码不一致" = "Two password entered does not match";
+"找回登录密码" = "Find Log In Password";
+"重置密码" = "Reset password";
+"请再次输入" = "Re-enter log in password";
+"后重新获取" = "Retrieve after";
+"重新获取" = "Retrieve again";
+
+//我要收款
+"我要收款" = "Collect";
+"二维码收款" = "QR Code Collect";
+"保存收款码" = "Save Image";
+"力付" = "PowerPay Scan";
+" 力付 " = "PowerPay\nScan";
+"支持微信扫一扫" = "Support WeChat Scanner";
+"云闪付" = "UnionPay QR";
+" 云闪付 " = "UnionPay QR";
+"当前支持:" = "Current support";
+"修改金额" = "Modify amount";
+"支付宝" = "Alipay";
+" 支付宝 " = "Alipay";
+"请按" = "Click";
+"保存失败" = "Failed";
+"保存成功" = "Success";
+"扫码向我付款" = "Scan To Pay";
+"小微开店" = "PowerPay Merchant";
+"为保障收款功能正常使用，请完善商户资料后使用" = "To ensure the smooth utilization of the payment collection function, please complete the merchant information list first";
+"提交资料" = "Submit";
+"共**笔" = "Total of ** transactions";
+"共" = "Total ";
+"笔" = "";
+"今天" = "Today";
+"收款明细" = "Payment collection details";
+"请选择月份" = "Select Month";
+"收款详情" = "Tansactions";
+
+
+//基本资料
+"基本资料" = "Profile";
+"修改密码" = "Change Password";
+"多语言" = "Language";
+"其他" = "Others";
+"商户资料" = "Merchant Information";
+"交易信息" = "Transaction Information";
+"签约费率" = "MDR";
+"结算信息" = "Settlement Information";
+"收益人姓名" = "Beneficiary name";
+"分行号" = "Branch number";
+"语言设置" = "Language";
+"给我们评分" = "Rate Us";
+"商家热线" = "Hotline";
+"退出登录" = "Log Out";
+"原密码" = "Original Password";
+"请输入原密码" = "Enter the original password";
+"新密码" = "New Password";
+"原密码输入错误" = "Original password entered incorrect";
+
+//收款详情
+"请输入分行名进行查询" = "Enter account branch";
+"请选择分行" = "Select account branch";
+"金额" = "Amount";
+"结算" = "Settlement";
+"金额：" = "Amount";
+"结算：" = "Settlement";
+"下拉刷新数据" = "Pull to refresh";
+"松开立即刷新" = "Release to refresh";
+"正在加载" = "Loading";
+"暂无交易记录" = "Currently no transaction record";
+"交易详情" = "Transaction detail";
+"交易类型" = "Transaction type";
+"卡号" = "Card number";
+"手机尾号" = "Mobile phone ending with";
+"交易金额" = "Transaction amount";
+"交易时间" = "Transaction time";
+"订单号" = "Order Number";
+"参考号" = "Refer No.";
+"手续费率" = "MDR";
+"手续费" = "Merchant Rate";
+"结算金额" = "Settlement amount";
+"出款状态" = "Payment status";
+"出款时间" = "Payment date and time";
+"结算信息" = "Settlement information";
+"撤销" = "Void";
+"已撤销" = "Voided";
+"确认撤销此交易？" = "Void this transaction?";
+"为保障账户安全，请输入6位登录密码" = "For your account safety, please enter the 6-digit Login password";
+"交易结果" = "Payment Result";
+"撤销成功" = "Void success";
+"撤销金额" = "Void amount";
+"撤销失败" = "Void failed";
+"原因" = "Cause";
+"最后更新：" = "Last update:";
+
+"请求失败，请重试" = "Network request failed";
+"重新加载" = "Reload";
+"请打开通知功能,否则无法收到交易提醒" = "Open notification feature, otherwise not receive reminders trading";
+"发现新版本" = "New version found";
+"推荐更新" = "Recommend update";
+"设置" = "Setting";
+
+"请选择区号" = "Select country code";
+
+//共有
+"加载中" = "Loading";
+"注意" = "Attention";
+"此账号已在其他设备登陆，若非本人操作请及时联系客服" = "This account has been logged in on other devices, if it’s not you, please contact customer service immediately";
+"网络请求失败" = "Network request failed";
+
+"撤销时间" = "Void time";
+"原订单号" = "Original Order Number";
+"原参考号" = "Original refer No.";
+
+"年" = "YY";
+"月" = "MM";
+"日" = "DD";
+
+"正在退出..." = "Logging Out";
+"参数有误" = "Failed";
+//图片
+"pic_signin_logo_chinese" = "pic_signin_logo_english";
+"icon_other_logo_chinese" = "icon_other_logo_english";
+"pic_savepic_unionpay_chinese" = "pic_savepic_unionpay_english";
+
+//收银员奖励
+"收银员注册" = "Cashier registration";
+"商户号" = "Merchant No.";
+"请输入商户号" = "Enter the Merchant No.";
+"商户号输入错误" = "Merchant No. error";
+"所属商户" = "Merchant";
+"首页" = "Home page";
+"我的" = "Personal";
+"收款银行卡" = "Beneficiary's bank card";
+"密码修改" = "Change Password";
+"奖励" = "Rewards";
+"提现" = "Cash redemption";
+"奖励:" = "Rewards";
+"提现:" = "Redemption";
+"提现申请已提交" = "Redemption request has been submitted";
+"结余" = "Balance";
+"- 奖励金 -" = "Rewards";
+"立即提现" = "Redeem for cash now";
+"奖励记录" = "Rewards history";
+"扫一扫" = "Scan";
+"提现金额：" = "Amount";
+"最低提现10.00" = "At least 10.00";
+"提现金额预计1-2个工作日到账（法定节假日除外）" = "Amount redeemed will be transferred to your account in 1-2 working days (except for holidays)";
+"预计1-2个工作日到账(法定节假日除外)" = "Amount redeemed will be transferred to your account in 1-2 working days (except for holidays)";
+"可提现金额：" = "Amount redeemable ";
+"交易详情" = "Transaction detail";
+"提现单号" = "Redemption ticket No.";
+"撤销单号" = "Void ticket No.";
+"奖励撤销详情" = "Rewards Void Detail";
+"提现申请时间" = "Redemption request time";
+"暂无奖励记录" = "Currently no rewards history";
+"奖励详情" = "Rewards Detail";
+"提现详情" = "Redemption Detail";
+"当前状态" = "Current status";
+"奖励金额" = "Rewards amount";
+"奖励单号" = "Rewards ticket No.";
+"交易参考号" = "Refer No.";
+"奖励领取" = "Receive rewards";
+"订单金额" = "Order amount";
+"领取" = "Receive";
+"领取成功" = "Success";
+"请输入提现金额" = "Enter the amount";
+"提现金额不能低于10.00" = "At least 10.00";
+"已超出可提现金额" = "Exceeded the amount";
+"二维码无效" = "This QR code is invalid";
+"借记卡" = "Debit card";
+"信用卡" = "Credit card";
+"收银员资料" = "Cashier Information";
+"头像" = "Profile picture";
+"手机号" = "Phone No.";
+"筛选" = "Select";
+"商户" = "Merchant";
+"收银员" = "Cashier";
+"提现金额" = "Redeem amount";
+"轻触关闭" = "Tap to turn off";
+"轻触照亮" = "Tap to turn on";
+"上拉加载更多数据" = "Pull up to load more";
+"加载完毕" = "No more data";
+"请您打开定位权限，否则无法使用此功能" = "Please open the location permissions, otherwise you cannot use this feature";
+
+"ad_ch" = "ad_en";
+"水牌ID" = "QR ID";
+"请填写商家水牌ID（可选）" = "Enter merchant's QR ID (optional)";
+
+"收款成功" = "Success";
+
+//3-2新增
+"商户编号" = "Merchant No.";
+"终端编号" = "Terminal No.";
+
+"手动输入" = "Manual input";
+"请输入交易参考号" = "Enter transaction reference No.";
+"添加" = "Add";
+"参考号输入错误" = "Reference number input error";
+"参考号输入重复" = "Transaction input repeated";
+"请添加交易参考号" = "Please add transaction reference number";
+"暂无" = "Not available";
+"奖励列表" = "Reward list";
+"最多可添加领取20条" = "Can add up to 20 items";
+"一键领取" = "Redeem in one click";
+//"收款银行卡" = "Payment collection card";
+"收款银行卡" = "My Card";
+"添加银行卡" = "Add band card";
+"此预付卡仅用于收银员奖励金收取，暂只支持SINOPAY预付卡绑定。" = "This prepaid card is only used for cashier bonus, temporarily only support binding with Sinopay prepaid card.";
+"删除" = "Delete";
+"请输入银行卡号" = "Please input bank card number";
+"卡号有误" = "Card number error";
+"手机号验证" = "Mobile number verification";
+"验证已发送至手机" = "Verification code send to mobile";
+"公众号支付" = "WeChat Official Account Pay";
+"支持力付，云闪付，微信公众号扫一扫支付" = "Support PowerPay Scan, UnionPay QuickPass, WeChat Official Account Pay";
+"支持云闪付/支付宝扫一扫支付" = "Support UnionPay QR/Alipay";
+
+//2018-5-17
+"手动结算" = "Manual settlement";
+"发送" = "Send";
+"发送结算报告" = "Send settlement report";
+"结算报告发送至邮箱" = "Sent settlement report to e-mail";
+"请输入邮箱" = "Please input e-mail";
+"邮箱输入错误" = "Please input right e-mail";
+"保存" = "Save";
+"推广有奖" = "Promote with award";
+
+"商业登记证/身份证件正面照片" = "Front Picture of Business Registration License/Identification Card";
+"商家类型" = "MCC";
+"请选择商家类型" = "Select MCC";
+
+"收银员账号" = "Cashier ID";
+"请输入收银员账号" = "Enter cashier ID";
+"请输入POS号" = "Enter POS ID";
+"POS号" = "POS ID";
+"使用手机号登陆" = "Login with mobile";
+"使用账号登陆" = "Login with ID";
+"收银员录入" = "Cashier input";
+"暂无收银员账号，点击右上角“录入”进行添加" = "There is no cashier account, click \"Enter\" in the upper right corner to add";
+"收银员管理" = "Cashier manage";
+"录入" = "input";
+"确认删除" = "Confirm delete";
+"请输入收银员登录账号" = "Please enter cashier login ID";
+"由字母数字下划线组成且开头必须是字母，位数限制：6~20" = "Consisting of alphanumeric,number and underscores and must begin with a letter,number of restrictions:6~20";
+"收银员登录账号输入有误" = "Cashier login ID input error";
+"扫一扫注册成为“小微开店”商户推荐人获取奖励" = "Scan and register with PowerPay Merchant as a recommender to get reward";
+"该商户未绑定邮箱" = "No email is linked to this merchant";
+
+"Osas代理账号" = "Osas agent account";
+"请输入Osas代理账号" = "Please enter Osas agent account";
+"代理" = "Agent";
+"小票" = "Receipt";
+"更多" = "more";
+
+
+//2018-12-21
+"收款码" = "QR Payment";
+"扫一扫收款" = "Scan Payment";
+"收款金额" = "Receipt Amount";
+"扫码收款" = "Scan QR code to receive";
+"请输入金额" = "Please input amount";
+"设置金额" = "Set Amount";
+"清除金额" = "Clear input Amount";
+"二维码格式错误" = "QR Code Format Error";
+"交易结果" = "Transaction Result";
+"收款失败" = "Payment Failed";
+"收款成功" = "Payment Successful";
+"卡号" = "Card Number";
+
+
+"代理注册" = "Registration";
+
+//新增
+"请设置收款金额" = "Please set the collection amount";
+"确 定" = "determine";
+"支持支付宝扫一扫支付" = "Support Alipay";
+"支持云闪付扫一扫支付" = "Support UnionPay QR";
+"允许永远可获取GPS的描述" = "Allow GPS description to be available forever";
+
+"商户存根" = "MERCHANT STUB";
+"商户名称:" = "MERCHANT NAME:";
+"商户编号:" = "MID:";
+"终端编号:" = "TID:";
+"操作员号:" = "OPERATOR NO:";
+"交易类型:" = "TRANS TYPE:";
+"批次号:" = "BATCH NO:";
+"凭证号:" = "VOUCHER NO:";
+"授权码:" = "AUTO NO:";
+"支付订单号:" = "TRANSACTION:";
+"商户订单号:" = "Out Trade No:";
+"日期/时间:" = "DATE/TIME:";
+"交易参考号:" = "REF.NO:";
+"金额:" = "AMOUNT:";
+"小费:" = "TIPS:";
+"总计:" = "TOTAL:";
+"支付宝扫码签购单" = "Alipay sweep code purchase order";
+"银联扫码签购单" = "UnionPay code scanning order";
+"标注" = "REFERENCE";
+"请到设置->隐私->定位服务中开启【小微开店】定位服务，以便于距离筛选能够准确获得你的位置信息" = "Please go to Settings > Privacy > location services to open the location service of 【small and micro stores】, so as to facilitate distance screening and accurately obtain your location information";
+"提示" = "Prompt";
+"取消" = "Cancel";
+"设置" = "Settings";
+"保存图片失败" = "Failed to save picture";
+"保存图片成功" = "Image saved successfully";
+"保存图片" = "Save Image";
+"未获得授权使用相机，请到设置->隐私->中打开相机服务" = "You are not authorized to use the camera. Please open the camera service in Settings > Privacy >";
+"二维码信息格式错误" = "QR code information format error";

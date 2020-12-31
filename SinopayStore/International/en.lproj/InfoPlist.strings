@@ -1,0 +1,18 @@
+/* 
+  InfoPlist.strings
+  SinopayStore
+
+  Created by 中付支付 on 2017/12/1.
+  Copyright © 2017年 中付支付. All rights reserved.
+*/
+
+
+"CFBundleDisplayName" = "PowerPay Merchant";
+
+"NSCameraUsageDescription" = "Allow this app to use your camera to scan QR code";
+
+"NSLocationWhenInUseUsageDescription" = "App needs access to your location information to provide a more accurate transaction certificate";
+
+"NSPhotoLibraryAddUsageDescription" = "Allow this app to access your media library to save image";
+
+"NSPhotoLibraryUsageDescription" = "Allow this app to access your media library to upload image";

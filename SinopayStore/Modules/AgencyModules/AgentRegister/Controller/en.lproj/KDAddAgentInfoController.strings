@@ -1,0 +1,102 @@
+
+/* Class = "UITextField"; placeholder = "请填写税务登记证号"; ObjectID = "0dD-FE-qrB"; */
+"0dD-FE-qrB.placeholder" = "请填写税务登记证号";
+
+/* Class = "UITextField"; placeholder = "请填写注册公司号码CI"; ObjectID = "3ee-Ix-ZcA"; */
+"3ee-Ix-ZcA.placeholder" = "请填写注册公司号码CI";
+
+/* Class = "UILabel"; text = "注册公司号码CI"; ObjectID = "8Xp-rp-0WY"; */
+"8Xp-rp-0WY.text" = "注册公司号码CI";
+
+/* Class = "UITextField"; placeholder = "请选择所在地区"; ObjectID = "9vB-ig-sYl"; */
+"9vB-ig-sYl.placeholder" = "请选择所在地区";
+
+/* Class = "UILabel"; text = "完成"; ObjectID = "Aee-fF-sz6"; */
+"Aee-fF-sz6.text" = "完成";
+
+/* Class = "UITextField"; placeholder = "请填写公司注册编号"; ObjectID = "CBu-3t-Rmb"; */
+"CBu-3t-Rmb.placeholder" = "请填写公司注册编号";
+
+/* Class = "UITextField"; placeholder = "请填写经办人"; ObjectID = "CDJ-yY-l3M"; */
+"CDJ-yY-l3M.placeholder" = "请填写经办人";
+
+/* Class = "UITextField"; placeholder = "请填写税务编号"; ObjectID = "CUv-36-ErF"; */
+"CUv-36-ErF.placeholder" = "请填写税务编号";
+
+/* Class = "UILabel"; text = "公司注册编号"; ObjectID = "Cy6-JN-CU5"; */
+"Cy6-JN-CU5.text" = "公司注册编号";
+
+/* Class = "UILabel"; text = "营业执照号码"; ObjectID = "DhZ-Hr-s5S"; */
+"DhZ-Hr-s5S.text" = "营业执照号码";
+
+/* Class = "UILabel"; text = "税务编号"; ObjectID = "G6P-3O-amH"; */
+"G6P-3O-amH.text" = "税务编号";
+
+/* Class = "UITextField"; placeholder = "请填写营业地址"; ObjectID = "HeG-dx-9mu"; */
+"HeG-dx-9mu.placeholder" = "请填写营业地址";
+
+/* Class = "UILabel"; text = "身份证号"; ObjectID = "KjL-8h-rSC"; */
+"KjL-8h-rSC.text" = "身份证号";
+
+/* Class = "UILabel"; text = "公司名称"; ObjectID = "PE2-Cj-GkL"; */
+"PE2-Cj-GkL.text" = "公司名称";
+
+/* Class = "UITextField"; placeholder = "请填写主要负责人"; ObjectID = "Swl-1Y-IPU"; */
+"Swl-1Y-IPU.placeholder" = "请填写主要负责人";
+
+/* Class = "UITextField"; placeholder = "请填写营业执照号码"; ObjectID = "Wpv-kf-yXk"; */
+"Wpv-kf-yXk.placeholder" = "请填写营业执照号码";
+
+/* Class = "UILabel"; text = "图片上传"; ObjectID = "XCz-bc-Sx4"; */
+"XCz-bc-Sx4.text" = "图片上传";
+
+/* Class = "UITextField"; placeholder = "请填写身份证号"; ObjectID = "ZdM-6q-EzJ"; */
+"ZdM-6q-EzJ.placeholder" = "请填写身份证号";
+
+/* Class = "UILabel"; text = "基础信息"; ObjectID = "aBs-9b-Oui"; */
+"aBs-9b-Oui.text" = "基础信息";
+
+/* Class = "UILabel"; text = "所在地区"; ObjectID = "aga-3B-PC0"; */
+"aga-3B-PC0.text" = "所在地区";
+
+/* Class = "UILabel"; text = "结算信息"; ObjectID = "bh0-fn-yfg"; */
+"bh0-fn-yfg.text" = "结算信息";
+
+/* Class = "UITextField"; placeholder = "请填写联系电话"; ObjectID = "fg7-Xr-kka"; */
+"fg7-Xr-kka.placeholder" = "请填写联系电话";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "fr5-pr-BCX"; */
+"fr5-pr-BCX.normalTitle" = "下一步";
+
+/* Class = "UILabel"; text = "代理类型"; ObjectID = "lqV-Qb-cLG"; */
+"lqV-Qb-cLG.text" = "代理类型";
+
+/* Class = "UILabel"; text = "税务登记证号"; ObjectID = "msl-ga-Gvv"; */
+"msl-ga-Gvv.text" = "税务登记证号";
+
+/* Class = "UILabel"; text = "联系电话"; ObjectID = "pZ7-uv-vAi"; */
+"pZ7-uv-vAi.text" = "联系电话";
+
+/* Class = "UILabel"; text = "主要负责人"; ObjectID = "paf-Jd-F0W"; */
+"paf-Jd-F0W.text" = "主要负责人";
+
+/* Class = "UILabel"; text = "经办人"; ObjectID = "xPD-j3-9E0"; */
+"xPD-j3-9E0.text" = "经办人";
+
+/* Class = "UILabel"; text = "邮箱"; ObjectID = "xpk-BS-fe0"; */
+"xpk-BS-fe0.text" = "邮箱";
+
+/* Class = "UITextField"; placeholder = "请填写邮箱"; ObjectID = "ybK-Gl-Hdq"; */
+"ybK-Gl-Hdq.placeholder" = "请填写邮箱";
+
+/* Class = "UILabel"; text = "营业地址"; ObjectID = "zIG-jc-tgb"; */
+"zIG-jc-tgb.text" = "营业地址";
+
+/* Class = "UISegmentedControl"; zYw-Tb-4pt.segmentTitles[0] = "个人"; ObjectID = "zYw-Tb-4pt"; */
+"zYw-Tb-4pt.segmentTitles[0]" = "个人";
+
+/* Class = "UISegmentedControl"; zYw-Tb-4pt.segmentTitles[1] = "公司"; ObjectID = "zYw-Tb-4pt"; */
+"zYw-Tb-4pt.segmentTitles[1]" = "公司";
+
+/* Class = "UITextField"; placeholder = "请填写公司名称"; ObjectID = "ztB-fy-MRl"; */
+"ztB-fy-MRl.placeholder" = "请填写公司名称";

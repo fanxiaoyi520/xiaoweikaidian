@@ -1,0 +1,15 @@
+
+/* Class = "UITextField"; placeholder = "验证码"; ObjectID = "5qg-5g-P7f"; */
+"5qg-5g-P7f.placeholder" = "驗證碼";
+
+/* Class = "UILabel"; text = "+86"; ObjectID = "FBd-rV-sHL"; */
+"FBd-rV-sHL.text" = "+86";
+
+/* Class = "UIButton"; normalTitle = "下一步"; ObjectID = "Ica-oo-jld"; */
+"Ica-oo-jld.normalTitle" = "下一步";
+
+/* Class = "UITextField"; placeholder = "手机号"; ObjectID = "Nhg-ba-POT"; */
+"Nhg-ba-POT.placeholder" = "手機號";
+
+/* Class = "UIButton"; normalTitle = "获取验证码"; ObjectID = "iGy-8j-FgC"; */
+"iGy-8j-FgC.normalTitle" = "獲取驗證碼";

@@ -1,0 +1,18 @@
+/* 
+  InfoPlist.strings
+  SinopayStore
+
+  Created by 中付支付 on 2017/12/1.
+  Copyright © 2017年 中付支付. All rights reserved.
+*/
+
+
+"CFBundleDisplayName" = "小微開店";
+
+"NSCameraUsageDescription" = "是否允許此App使用你的相機，以便掃描二維碼";
+
+"NSLocationWhenInUseUsageDescription" = "App需要獲取您的位置信息，以便提供更準確的交易憑證";
+
+"NSPhotoLibraryAddUsageDescription" = "是否允許此App訪問你的相冊，以便保存圖片";
+
+"NSPhotoLibraryUsageDescription" = "是否允許此App訪問你的相冊，以便上傳圖片";
